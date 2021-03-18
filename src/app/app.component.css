@@ -1,0 +1,5 @@
+.centered-content {
+  align-self: center;
+  margin: 0px auto;
+  max-width: calc(var(--app-width) - 75px);
+}
